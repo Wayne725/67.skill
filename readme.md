@@ -9,7 +9,3 @@
 - `SIX SEVEN`
 - `SIXSIXSEVEN`
 
-## 檔案結構
-- `skill.json`：技能註冊設定檔
-- `instructions.md`：AI 觸發條件與行為守則
-- `run.py`：負責隨機抽籤的 Python 腳本
