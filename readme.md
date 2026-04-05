@@ -1,4 +1,4 @@
-# Agong 67 Detector (阿公67偵測器) 👴🏼
+# Agong 67 Detector (阿公67偵測器) 
 
 這是一個基於 `agentskills` 標準開發的 AI 代理技能。
 
