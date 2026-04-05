@@ -1,0 +1,10 @@
+{
+  "name": "agong_67_detector",
+  "description": "當對話中出現特定關鍵字時，用來產生專屬隨機結尾的技能。",
+  "version": "1.0.0",
+  "entrypoint": {
+    "type": "command",
+    "command": "python",
+    "args": ["run.py"]
+  }
+}
